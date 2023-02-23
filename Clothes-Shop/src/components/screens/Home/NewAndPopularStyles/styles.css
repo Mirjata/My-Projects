@@ -1,0 +1,52 @@
+.brands-container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 4em;
+}
+
+.models-container {
+  display: flex;
+  padding: 4em 0;
+  max-width: 100%;
+  gap: 1.2em;
+}
+
+.main-col {
+  display: flex;
+  flex-basis: 100%;
+  position: relative;
+}
+
+.model,
+.main-model {
+  width: 100%;
+  height: auto;
+}
+
+.rows-container {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  gap: 1.2em;
+}
+
+.model-row-1,
+.model-row-2 {
+  display: flex;
+  max-width: 100%;
+  gap: 1.2em;
+}
+
+.explore-text {
+  position: absolute;
+  z-index: 999;
+  left: 5.8em;
+  top: 37.6em;
+  transform: rotate(270deg);
+  font-size: 3.2rem;
+  font-weight: 300;
+}
+
+.models-container {
+  flex-basis: 100%;
+}

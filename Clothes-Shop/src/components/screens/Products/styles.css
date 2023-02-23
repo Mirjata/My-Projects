@@ -1,0 +1,17 @@
+.products-title {
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 500;
+  line-height: 5.5em;
+}
+
+.products-container {
+  display: flex;
+
+  flex-wrap: wrap;
+  
+  gap: 4.8rem;
+  font-family: 'Open Sans';
+  font-size: 1.6rem;
+}
+

@@ -1,0 +1,16 @@
+.base-label {
+  position: absolute;
+  text-align: center;
+  font-size: 1.2rem;
+  color: #f7f7f7;
+  width: 4rem;
+  top: 1.5em;
+}
+
+.hot {
+  background-color: #ff6f61;
+}
+
+.sale {
+  background-color: black;
+}

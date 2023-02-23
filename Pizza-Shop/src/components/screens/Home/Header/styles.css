@@ -1,0 +1,15 @@
+.header {
+  background: url('assets/images/margherita-pizza\ 2.png');
+  background-position: right;
+  background-repeat: no-repeat;
+  font-size: 1.75rem;
+  padding: 6em 2em;
+}
+
+.header-title {
+  margin-bottom: 0.5em;
+}
+
+.header-subtitle {
+  margin-bottom: 1.8em;
+}

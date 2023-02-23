@@ -1,0 +1,29 @@
+.article-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.25em;
+}
+
+.date-item {
+  color: #888888;
+  font-size: 0.7rem;
+}
+
+.trash-btn {
+  background-color: #ffffff;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.trash-icon {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+.trash-btn:hover {
+  color: red;
+}

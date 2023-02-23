@@ -1,0 +1,46 @@
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.4rem;
+  padding-top: 8em;
+  margin-bottom: 6em;
+  line-height: 2.5em;
+}
+
+.logo-container,
+.catalog,
+.about-us,
+.customer-services {
+  flex-basis: 100%;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+  padding-top: 1em;
+}
+
+.payment-methods {
+  background-color: black;
+  color: white;
+}
+
+.payments {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-height: 100%;
+  padding: 1em 0;
+  font-size: 1.5rem;
+}
+
+.btn-scroll-to-top {
+  background-color: black;
+  border: none;
+  color: white;
+}
+
+.btn-scroll-to-top:hover {
+  cursor: pointer;
+}

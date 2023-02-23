@@ -1,0 +1,21 @@
+.pagination  {
+    display: flex;
+    justify-content: center;
+    margin:3em 0;
+    gap: 2rem;
+  }
+  
+  .pagination-btn {
+    padding: 0.6em 1.1em;
+    border: none;
+    border-radius: 25%;
+    color: white;
+    font-size: 1.6rem;
+    background-color: rgb(134, 133, 131);
+  }
+  
+  .pagination-btn[data-active='true'] {
+      background-color: rgb(39, 39, 39);
+    }
+    
+  

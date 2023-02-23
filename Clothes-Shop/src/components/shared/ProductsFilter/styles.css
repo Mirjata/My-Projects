@@ -1,0 +1,22 @@
+.filter-types {
+  display: flex;
+  list-style: none;
+  font-family: 'Open Sans';
+  padding: 0;
+  margin-bottom: 2.5em;
+  gap: 2em;
+  cursor: pointer;
+}
+
+.filter-type {
+  font-weight: 600;
+  font-size: 1.7rem;
+  color: #777777;
+}
+
+
+.filter-type-active {
+ font-weight: bold;
+ font-size: 2rem;
+
+}

@@ -1,0 +1,36 @@
+.section-items {
+  padding: 4em 0;
+}
+
+.items {
+  display: flex;
+  justify-content: space-around;
+  padding: 0 2.5em;
+}
+
+.recommended-menu {
+  text-align: center;
+  margin-bottom: 1.5em;
+  font-weight: 600;
+  font-size: 2.25rem;
+}
+
+.paging-wrap {
+  display: flex;
+  justify-content: center;
+  padding: 2em;
+  gap: 2em;
+}
+
+.btn {
+  background-color: rgb(1, 1, 1);
+  width: 12px;
+  height: 12px;
+  border: none;
+  border-radius: 20rem;
+  cursor: pointer;
+}
+
+.btn[data-active='true'] {
+  background-color: rgb(255, 0, 0);
+}

@@ -1,0 +1,10 @@
+export { default as HomeBanner } from './Banner';
+export { default as AuthorBook } from './AuthorBook';
+export { default as AboutAuthor } from './AboutAuthor';
+export { default as TrustedBy } from './TrustedBy';
+export { default as CallOut } from './CallOut';
+export { default as WhatLearn } from './WhatLearn';
+export { default as TheChapter } from './TheChapter';
+export { default as Testimonial } from './Testimonial';
+export { default as Articles } from './Articles';
+export { default as FreeChapter } from './FreeChapter';

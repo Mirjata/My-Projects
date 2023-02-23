@@ -1,0 +1,51 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "jsx": "react",
+    "paths": {
+      "assets/*": [
+        "src/assets/*"
+      ],
+      "components/*": [
+        "src/components/*"
+      ],
+      "enums/*": [
+        "src/enums/*"
+      ],
+      "hooks/*": [
+        "src/hooks/*"
+      ],
+      "screens/*": [
+        "src/screens/*"
+      ],
+      "services/*": [
+        "src/services/*"
+      ],
+      "utils/*": [
+        "src/utils/*"
+      ],
+      "assets": [
+        "src/assets"
+      ],
+      "components": [
+        "src/components"
+      ],
+      "enums": [
+        "src/enums"
+      ],
+      "hooks": [
+        "src/hooks"
+      ],
+      "screens": [
+        "src/screens"
+      ],
+      "services": [
+        "src/services"
+      ],
+      "utils": [
+        "src/utils"
+      ]
+    }
+  },
+  "include": ["src/**/*"]
+}

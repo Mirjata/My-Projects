@@ -1,0 +1,32 @@
+.title-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+}
+
+.title-container-center {
+  align-items: center;
+}
+
+.title-container-left {
+  align-items: flex-start;
+}
+
+.title-text-blue {
+  color: #1b3764;
+}
+
+.title-text-white {
+  color: #ffffff;
+}
+
+.title-underline-yellow {
+  width: 3em;
+  height: 0.2em;
+  background-color: #ffca42;
+}
+.title-underline-blue {
+  background-color: #1b3764;
+  width: 3em;
+  height: 0.2em;
+}

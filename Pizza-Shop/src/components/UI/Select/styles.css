@@ -1,0 +1,9 @@
+.select-menu {
+  width: 243px;
+  height: 40px;
+  font-size: 1rem;
+  padding: 0 10px;
+  background: #ffffff;
+  border: 1px solid #4f4f4f;
+  border-radius: 25px;
+}

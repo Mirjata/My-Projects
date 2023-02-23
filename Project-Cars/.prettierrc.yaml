@@ -1,0 +1,12 @@
+trailingComma: 'all'
+tabWidth: 2
+semi: true
+singleQuote: true
+printWidth: 120
+bracketSameLine: true
+eslintIntegration: true
+bracketSpacing: true
+bracesSpacing: true
+jsxSingleQuote: false
+spaceBeforeFunctionParen: true
+arrowParens: avoid

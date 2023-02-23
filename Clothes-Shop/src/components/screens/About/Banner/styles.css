@@ -1,0 +1,35 @@
+.banner-container {
+  display: flex;
+  align-items: center;
+  min-height: 78em;
+  padding: 10em 0;
+  background-image: url(../../../../assets//images/About-banner/Group\ 102.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+.zara-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.zara-logo {
+  width: 100%;
+  height: auto;
+  max-width: 191px;
+  margin-bottom: 2em;
+}
+
+.zara-logo-2 {
+  right: 0;
+  position: absolute;
+  bottom: -61em;
+}
+.zara-text {
+  font-size: 2.6rem;
+  line-height: 1.7;
+  margin-bottom: 1em;
+  max-width: 50rem;
+}
